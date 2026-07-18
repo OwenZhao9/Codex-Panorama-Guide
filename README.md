@@ -33,7 +33,7 @@
 
 ### 第三篇：核心功能详解
 
-- Work
+- [Work](chapters/13-work-mode.md)
 - 计划模式（Plan Mode）
 - 目标（Goal）与持续任务
 - 模型选择与当前模型概览
