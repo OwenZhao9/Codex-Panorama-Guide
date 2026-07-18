@@ -53,10 +53,10 @@
 
 ### 第四篇：标准工作流
 
-- 从需求到交付的完整链路
-- 复杂任务的拆解与推进
-- 质量检查与成果验收
-- Codex 任务模板库
+- [从需求到交付的完整链路](chapters/30-end-to-end-delivery.md)
+- [复杂任务的拆解与推进](chapters/31-complex-task-management.md)
+- [质量检查与成果验收](chapters/32-quality-assurance.md)
+- [Codex 任务模板库](chapters/33-task-template-library.md)
 
 ### 第五篇：实战案例库
 
