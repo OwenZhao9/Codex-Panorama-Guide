@@ -23,13 +23,13 @@
 
 ### 第二篇：安装、配置与环境准备
 
-- 安装前准备
-- Codex App 安装与上手
-- 项目、文件与工作空间
-- Codex Web 与云端任务
-- Codex CLI 与 IDE Extension
-- 模型、权限与基础设置
-- 沙箱、安全与隐私
+- [安装前准备](chapters/06-before-installing.md)
+- [Codex App 安装与上手](chapters/07-codex-app-setup.md)
+- [项目、文件与工作空间](chapters/08-project-files-workspaces.md)
+- [Codex Web 与云端任务](chapters/09-codex-web-cloud-tasks.md)
+- [Codex CLI 与 IDE Extension](chapters/10-cli-and-ide-extension.md)
+- [模型、权限与基础设置](chapters/11-model-permissions-settings.md)
+- [沙箱、安全与隐私](chapters/12-sandbox-security-privacy.md)
 
 ### 第三篇：核心功能详解
 
