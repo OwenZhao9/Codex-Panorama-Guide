@@ -81,6 +81,18 @@ Chronicle 适合补充“最近在做什么”，不应替代项目文件和正�
 - 删除重复附件，明确最新版本；
 - 新目标使用新聊天，而不是无限追加。
 
+### 实用技巧：用 `HANDOFF.md` 跨会话交接
+
+如果任务尚未完成，但聊天已经很长、需要暂时中断，或者准备换到一个没有历史上下文的新聊天，可以先让 Codex 在项目中创建 `HANDOFF.md`。它是一份写给下一位执行者的交接快照，不是 Codex 的自动记忆。
+
+一份有用的交接文档应包含：当前目标与完成标准；已经完成并验证的成果；正在进行的工作；阻塞与需要的决定；重要文件、输出位置和版本状态；实际运行的检查及结果；已经失败、不应原样重试的方法；尚未执行的外部操作；下一步及优先顺序；交接时间和运行环境。
+
+生成后要亲自扫一遍，删除密码、令牌、个人资料和不必要的内部信息。文件名应统一使用 `HANDOFF.md`。如果交接记录只供临时使用，还要决定它是否应该进入版本控制，避免把敏感或很快过期的状态长期留在仓库。
+
+新聊天开始后，不要读完就立即继续。先要求 Codex 核对文档中提到的文件、Git 状态和当前外部状态，再复述目标、已完成、阻塞、风险与下一步，等待确认。交接文档可能过时；发生冲突时，当前真实文件和外部状态优先。
+
+如果原聊天仍可恢复、上下文也没有明显污染，继续原聊天通常更直接。`HANDOFF.md` 最适合真正切换聊天、工具、设备或执行者的场景。完整可复制提示见第 33 章的“状态汇报与交接模板”。
+
 更大的上下文窗口不能消除组织问题。把全部历史塞进去，仍可能比提供少量相关材料更差。
 
 ## 26.8 信息冲突时谁优先
@@ -143,10 +155,11 @@ Chronicle 适合补充“最近在做什么”，不应替代项目文件和正�
 
 ## 资料来源与更新说明
 
-本章依据 OpenAI 官方项目、记忆、规则、`AGENTS.md` 与 Chronicle 文档整理，能力核对于 2026 年 7 月 18 日。
+本章依据 OpenAI 官方项目、长任务、记忆、规则、`AGENTS.md` 与 Chronicle 文档整理，能力核对于 2026 年 7 月 18 日。
 
 - [OpenAI Codex Manual](https://developers.openai.com/codex/codex-manual.md)
 - [Projects and chats](https://learn.chatgpt.com/docs/projects.md)
+- [Long-running work](https://learn.chatgpt.com/docs/long-running-work.md)
 - [Memories](https://learn.chatgpt.com/docs/customization/memories.md)
 - [Custom instructions with AGENTS.md](https://learn.chatgpt.com/docs/agent-configuration/agents-md.md)
 - [Rules](https://learn.chatgpt.com/docs/agent-configuration/rules)
