@@ -6,20 +6,20 @@
 
 ## 目录
 
-### 0. 使用说明
+### [0. 使用说明](chapters/00-how-to-use-this-book.md)
 
-- 0.1 重要声明
-- 0.2 这本书适合谁
-- 0.3 阅读路线
-- 0.4 版本与在线更新
+- [0.1 重要声明](chapters/00-how-to-use-this-book.md#01-重要声明)
+- [0.2 这本书适合谁](chapters/00-how-to-use-this-book.md#02-这本书适合谁)
+- [0.3 阅读路线](chapters/00-how-to-use-this-book.md#03-阅读路线)
+- [0.4 版本与在线更新](chapters/00-how-to-use-this-book.md#04-版本与在线更新)
 
 ### 第一篇：先搞懂 Codex 是什么
 
-- 从聊天机器人到 AI 智能体
-- Codex 基础认知
+- [从聊天机器人到 AI 智能体](chapters/01-from-chatbot-to-ai-agent.md)
+- [Codex 基础认知](chapters/02-codex-basics.md)
 - [Codex 能做什么，不能做什么](chapters/03-what-codex-can-and-cannot-do.md)
-- Chat、Work、Codex 与 Sites
-- Codex 的使用入口
+- [Chat、Work、Codex 与 Sites](chapters/04-chat-work-codex-sites.md)
+- [Codex 的使用入口](chapters/05-codex-entry-points.md)
 
 ### 第二篇：安装、配置与环境准备
 
