@@ -34,22 +34,22 @@
 ### 第三篇：核心功能详解
 
 - [Work](chapters/13-work-mode.md)
-- 计划模式（Plan Mode）
-- 目标（Goal）与持续任务
-- 模型选择与当前模型概览
-- 推理强度与智能等级
-- 标准速度、Fast 模式与 Codex-Spark
-- 文件处理与网络研究
-- 文档、表格与演示
-- 图片、音频与视频
-- 站点（Sites）与实用工具
-- Browser、Chrome 与 Computer Use
-- 应用、插件与连接器
-- Skill 与 MCP
-- 记忆、规则与长期上下文
-- 自动化与定时任务
-- 云端运行与并行任务
-- 代码、Git 与项目管理
+- [计划模式（Plan Mode）](chapters/14-plan-mode.md)
+- [目标（Goal）与持续任务](chapters/15-goal-mode.md)
+- [模型选择与当前模型概览](chapters/16-model-selection.md)
+- [推理强度与智能等级](chapters/17-reasoning-levels.md)
+- [标准速度、Fast 模式与 Codex-Spark](chapters/18-speed-fast-spark.md)
+- [文件处理与网络研究](chapters/19-files-and-web-research.md)
+- [文档、表格与演示](chapters/20-documents-spreadsheets-presentations.md)
+- [图片、音频与视频](chapters/21-images-audio-video.md)
+- [站点（Sites）与实用工具](chapters/22-sites-and-tools.md)
+- [Browser、Chrome 与 Computer Use](chapters/23-browser-chrome-computer-use.md)
+- [应用、插件与连接器](chapters/24-apps-plugins-connectors.md)
+- [Skill 与 MCP](chapters/25-skills-and-mcp.md)
+- [记忆、规则与长期上下文](chapters/26-memory-rules-context.md)
+- [自动化与定时任务](chapters/27-automations.md)
+- [云端运行与并行任务](chapters/28-cloud-and-parallel-work.md)
+- [代码、Git 与项目管理](chapters/29-code-git-project-management.md)
 
 ### 第四篇：标准工作流
 
