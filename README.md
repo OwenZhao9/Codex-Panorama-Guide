@@ -60,13 +60,13 @@
 
 ### 第五篇：实战案例库
 
-- 实战案例一：完成一份专题研究报告
-- 实战案例二：制作数据分析与决策演示
-- 实战案例三：建立个人内容生产流程
-- 实战案例四：完成一个品牌发布项目
-- 实战案例五：创建网站与在线工具
-- 实战案例六：建立定期运行的信息助手
-- 实战案例七：搭建个人或团队 AI 工作流
+- [实战案例一：完成一份专题研究报告](chapters/34-research-report-case-study.md)
+- [实战案例二：制作数据分析与决策演示](chapters/35-data-analysis-decision-presentation.md)
+- [实战案例三：建立个人内容生产流程](chapters/36-content-production-workflow.md)
+- [实战案例四：完成一个品牌发布项目](chapters/37-brand-launch-project.md)
+- [实战案例五：创建网站与在线工具](chapters/38-site-and-online-tool.md)
+- [实战案例六：建立定期运行的信息助手](chapters/39-scheduled-information-assistant.md)
+- [实战案例七：搭建个人或团队 AI 工作流](chapters/40-personal-team-ai-workflow.md)
 
 ### 附录
 
