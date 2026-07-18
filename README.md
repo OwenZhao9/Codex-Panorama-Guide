@@ -17,7 +17,7 @@
 
 - 从聊天机器人到 AI 智能体
 - Codex 基础认知
-- Codex 能做什么，不能做什么
+- [Codex 能做什么，不能做什么](chapters/03-what-codex-can-and-cannot-do.md)
 - Chat、Work、Codex 与 Sites
 - Codex 的使用入口
 
